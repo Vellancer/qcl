@@ -114,18 +114,7 @@ get the latest TeXmacs sources from
 - http://www.texmacs.org/
 
 
-Credits:
---------
-
-Andrey G. Grozin <A.G.Grozin@inp.nsk.su>
-  - initial TeXmacs support
-  - color XTerm support
-
-Muhammad Hussain Yusuf <myusuf@btconnect.com> 
-  - maintainer of the debian QCL package
-  - testing of QCL on many hardware plattforms
-
-Feedback:
+Message from QCL's original author:
 ---------
 
 If you encounter any bugs or miss any particular feature or just like
